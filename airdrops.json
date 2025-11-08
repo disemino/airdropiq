@@ -1,0 +1,35 @@
+[
+  {
+    "id": "zeta-points",
+    "name": "ZetaChain Points Campaign",
+    "status": "Active",
+    "network": "Multi-chain",
+    "difficulty": "Easy",
+    "potentialValue": "$50 - $200",
+    "deadline": "2025-12-01",
+    "link": "https://zetachain.com",
+    "tags": ["points", "bridge", "social"]
+  },
+  {
+    "id": "layerzero-ecosystem",
+    "name": "LayerZero Ecosystem Activity",
+    "status": "Ongoing",
+    "network": "Multi-chain",
+    "difficulty": "Medium",
+    "potentialValue": "$200+ ?",
+    "deadline": null,
+    "link": "https://layerzero.network",
+    "tags": ["defi", "bridge"]
+  },
+  {
+    "id": "base-nft-quest",
+    "name": "Base NFT Quest",
+    "status": "Active",
+    "network": "Base",
+    "difficulty": "Easy",
+    "potentialValue": "Speculative",
+    "deadline": "2025-11-30",
+    "link": "https://base.org",
+    "tags": ["nft", "quest"]
+  }
+]
